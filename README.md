@@ -1,1 +1,1 @@
-# CRUD-with-React-Laravel-backend
+This is a crud operation practice project with react and laravel
